@@ -1,0 +1,89 @@
+POI,Category,Weight,Normalized_Weight
+pitch,Leisure; Other(inc escort)(0.2),25.4,0.8168674698795182
+park,Leisure,29.2,1.0000000000000002
+theatre,Leisure; Other(inc escort)(0.2),25.4,0.8168674698795182
+sports_shop,Other (inc escort),10.7,0.10843373493975911
+sports_centre,Leisure; Other(inc escort)(0.2),25.4,0.8168674698795182
+golf_course,Other (inc escort); Leisure(0.2),16.54,0.3898795180722892
+school,Education,8.8,0.01686746987951815
+doityourself,Other (inc escort); Leisure(0.2),16.54,0.3898795180722892
+supermarket,Shopping and Personal Business,28.0,0.9421686746987954
+attraction,Leisure; Other(inc escort)(0.2),25.4,0.8168674698795182
+hospital,Other (inc escort),10.7,0.10843373493975911
+stadium,Leisure; Other (inc escort)(0.2),25.4,0.8168674698795182
+hotel,Other(inc escort),10.7,0.10843373493975911
+playground,Leisure; Other(inc escort)(0.2),25.4,0.8168674698795182
+cinema,Leisure; Other(inc escort)(0.2),25.4,0.8168674698795182
+caravan_site,Other(inc escort),10.7,0.10843373493975911
+swimming_pool,Leisure; Other(inc escort)(0.2),25.4,0.8168674698795182
+library,Education; Leisure(0.3),14.92,0.31180722891566276
+track,Other(inc escort); Leisure(0.2),16.54,0.3898795180722892
+university,Education,8.8,0.01686746987951815
+restaurant,Other(inc escort); Shopping and Personal Business(0.3),15.89,0.35855421686746997
+mall,Shopping and Personal Business; Leisure(0.3),28.36,0.9595180722891568
+dog_park,Other(inc escort); Leisure (0.2),16.54,0.3898795180722892
+museum,Education; Leisure(0.5),19.0,0.5084337349397592
+cafe,Leisure; Other(inc escort)(0.2),25.4,0.8168674698795182
+furniture_shop,Other(inc escort); Shopping and Personal Business(0.2),14.16,0.2751807228915663
+college,Education,8.8,0.01686746987951815
+zoo,Leisure,29.2,1.0000000000000002
+community_centre,Leisure; Education(0.3),23.08,0.7050602409638556
+convenience,Shopping and Personal Business,28.0,0.9421686746987954
+car_dealership,Other(inc escort),10.7,0.10843373493975911
+clothes,Other(inc escort); Shopping and Personal Business (0.2),14.16,0.2751807228915663
+garden_centre,Other(inc escort); Leisure(0.2),16.54,0.3898795180722892
+doctors,Other(inc escort),10.7,0.10843373493975911
+market_place,Shopping and Personal Business; Leisure(0.2),28.24,0.9537349397590362
+public_building,Other Work; Other(inc escort)(0.5),8.45,0.0
+arts_centre,Leisure; Education(0.3),23.08,0.7050602409638556
+clinic,Other(inc escort),10.7,0.10843373493975911
+bicycle_rental,Other(inc escort),10.7,0.10843373493975911
+theme_park,Leisure; Shopping and Personal Business(0.2),28.96,0.9884337349397592
+bar,Leisure; Shopping and Personal Business(0.2),28.96,0.9884337349397592
+pub,Leisure; Shopping and Personal Business(0.2),28.96,0.9884337349397592
+department_store,Shopping and Personal Business; Leisure(0.2),28.96,0.9884337349397592
+fast_food,Shopping and Personal Business; Leisure(0.2),28.96,0.9884337349397592
+archaeological,Leisure; Education(0.4),21.04,0.6067469879518073
+fountain,Other(inc escort),10.7,0.10843373493975911
+kindergarten,Education;Other(inc escort)(0.5),9.75,0.0626506024096386
+optician,Other(inc escort),10.7,0.10843373493975911
+bank,Other Work; Other(inc escort)(0.5),8.45,0.0
+guesthouse,Other (inc escort),10.7,0.10843373493975911
+nursing_home,Other (inc escort),10.7,0.10843373493975911
+veterinary,Other (inc escort),10.7,0.10843373493975911
+laundry,Other (inc escort),10.7,0.10843373493975911
+bakery,Other(inc escort); Leisure (0.2),16.54,0.3898795180722892
+greengrocer,Shopping and Personal Business; Other(inc escort)(0.3),22.81,0.6920481927710844
+gift_shop,Other(inc escort),10.7,0.10843373493975911
+hostel,Other (inc escort),10.7,0.10843373493975911
+hairdresser,Other(inc escort),10.7,0.10843373493975911
+beauty_shop,Other (inc escort);Shopping and Personal Business(0.2),14.16,0.2751807228915663
+castle,Leisure; Other(inc escort)(0.2),25.4,0.8168674698795182
+bicycle_shop,Other (inc escort),10.7,0.10843373493975911
+dentist,Other (inc escort),10.7,0.10843373493975911
+pharmacy,Other (inc escort);Shopping and Personal Business(0.2),14.16,0.2751807228915663
+post_office,Other Work;Shopping and Personal Business(0.3),12.74,0.2067469879518073
+picnic_site,Other (inc escort); Leisure(0.2),16.54,0.3898795180722892
+viewpoint,Other (inc escort),10.7,0.10843373493975911
+chemist,Other (inc escort);Shopping and Personal Business(0.2),14.16,0.2751807228915663
+nightclub,Leisure; Other (inc escort)(0.2),25.4,0.8168674698795182
+jeweller,Other (inc escort),10.7,0.10843373493975911
+beverages,Other (inc escort),10.7,0.10843373493975911
+mobile_phone_shop,Other (inc escort),10.7,0.10843373493975911
+bookshop,Other (inc escort); Leisure(0.3); Education (0.3),15.68,0.3484337349397591
+florist,Other (inc escort); Leisure(0.2),16.54,0.3898795180722892
+toy_shop,Other (inc escort); Leisure(0.2),16.54,0.3898795180722892
+shoe_shop,Other (inc escort); Leisure(0.2),16.54,0.3898795180722892
+butcher,Shopping and Personal Business; Other(inc escort)(0.3),22.81,0.6920481927710844
+kiosk,Shopping and Personal Business; Other (inc escort)(0.5),19.35,0.5253012048192773
+computer_shop,Other (inc escort); Leisure(0.2),16.54,0.3898795180722892
+outdoor_shop,Other (inc escort); Leisure(0.2),16.54,0.3898795180722892
+stationery,Other (inc escort); Education(0.2),10.32,0.09012048192771094
+food_court,Shopping and Personal Business; Leisure(0.5),28.6,0.9710843373493978
+ice_rink,Other (inc escort); Leisure(0.2),16.54,0.3898795180722892
+camp_site,Other (inc escort); Leisure(0.2),16.54,0.3898795180722892
+vending_any,Other (inc escort),10.7,0.10843373493975911
+observation_tower,Other (inc escort); Leisure(0.2),16.54,0.3898795180722892
+biergarten,Leisure; Shopping and Personal Business(0.2),28.96,0.9884337349397592
+general,Other (inc escort),10.7,0.10843373493975911
+video_shop,Other (inc escort),10.7,0.10843373493975911
