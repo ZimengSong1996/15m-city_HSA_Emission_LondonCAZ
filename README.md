@@ -19,11 +19,11 @@
 The main coding file please see `15-min-city_HSA_LondonCAZ.ipynb`.
    
 `Content`:
-1.Perceived Streetscape quality Analysis: Built predictive model
-    1.1 Process training data: Place Pulse 2.0-the imagery and perceived socre in 6 dimensions
-    1.2 Imagery semantic segmentation for training imagery (Place-Pulse-2.0) and google street images of CAZ
-    1.3 Building LGBoost, XGBoost and Random Forest Resgression Model
-    1.4 Predict Perceived Quality Score in London CAZ
+1. Perceived Streetscape quality Analysis: Built predictive model
+   1.1 Process training data: Place Pulse 2.0-the imagery and perceived socre in 6 dimensions
+   1.2 Imagery semantic segmentation for training imagery (Place-Pulse-2.0) and google street images of CAZ
+   1.3 Building LGBoost, XGBoost and Random Forest Resgression Model /n
+   1.4 Predict Perceived Quality Score in London CAZ
 2.Processing POI
 3.Calculate Human-Scale Accessibility (HSA)
    3.1 The original plan: Calculate HSA by network distance and the average perceived quality along the way on streets to POIs
