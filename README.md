@@ -43,3 +43,5 @@ The main coding file please see `15-min-city_HSA_LondonCAZ.ipynb`.
    4.1 regression analysis with transport emission
    
    4.2 Regression analysis with Socio-Green indicators
+
+`Note`: Due to file size limit, there are 2 encode and decode files for semantic segmentation not include in the repository. Please download the files from https://liveuclac-my.sharepoint.com/my?csf=1&web=1&e=b2tkG1&CID=aba7d972%2D6d64%2D44cf%2D9d74%2D7453c052b1ae&id=%2Fpersonal%2Fucfnonb%5Fucl%5Fac%5Fuk%2FDocuments%2FAssignment%5FFinal%2Fimage%5Fdownload%5Fsegmentation%2Fsemantic%5Fsegmentation%2Fckpt%2Fade20k%2Dresnet50dilated%2Dppm%5Fdeepsup&FolderCTID=0x01200010AEA58D266F26459F8E01DF813DBA8C . Then put the files under image_download_segmentation/semantic_segmentation/ckpt/ade20k-resnet50dilated-ppm_deepsup/
